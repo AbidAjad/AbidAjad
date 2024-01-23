@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/sajidshanta/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.hackerrank.com/sajid_shanta07" target="_blank">
 </p>
-<p align="center">Read my blog about Flutter topics: <a href="[https://blog.sajidhasan.com/](https://flutterwithabid.hashnode.dev/)" target="_blank"><b>blog.hashnode.dev ✍</b></a></p>
+<p align="center">Read my blog about Flutter topics: <a href="https://flutterwithabid.hashnode.dev" target="_blank"><b>blog.hashnode.dev ✍</b></a></p>
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbidAjad&hide_border=false&theme=react" width="45%"/>
