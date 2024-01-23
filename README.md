@@ -1,5 +1,5 @@
 
-<h1 align="center"> 👋 I am Sajid, an iOS developer</h2>
+<h1 align="center"> 👋 I am Abid, a Flutter developer</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sajidshanta/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
